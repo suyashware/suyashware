@@ -43,10 +43,11 @@ Penultimate year at **Pillai College of Engineering, New Panvel**, studying **Co
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/suyashware">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/suyashware" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  &nbsp;
   <a href="mailto:wsuyash23comp@student.mes.ac.in">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
