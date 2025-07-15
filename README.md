@@ -27,7 +27,6 @@ Penultimate year at **Pillai College of Engineering, New Panvel**, studying **Co
 
 ---
 
-# 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
